@@ -1,0 +1,4 @@
+/home/manu/HTTPserver/chap25/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap25/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap25/build/CMakeFiles/test_c.dir
+/home/manu/HTTPserver/chap25/build/CMakeFiles/fork_s.dir

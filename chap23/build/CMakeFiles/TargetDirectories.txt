@@ -1,0 +1,6 @@
+/home/manu/HTTPserver/chap23/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap23/build/CMakeFiles/test_c.dir
+/home/manu/HTTPserver/chap23/build/CMakeFiles/ep3_s.dir
+/home/manu/HTTPserver/chap23/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap23/build/CMakeFiles/ep2_s.dir
+/home/manu/HTTPserver/chap23/build/CMakeFiles/ep1_s.dir

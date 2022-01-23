@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/mid-server.dir/mid_server.c.o  -o mid-server 

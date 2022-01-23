@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/b_server2.dir/buffer_server2.c.o  -o b_server2 

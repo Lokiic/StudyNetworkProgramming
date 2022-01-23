@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/ep1_s.dir/epoll1_server.c.o  -o ep1_s 

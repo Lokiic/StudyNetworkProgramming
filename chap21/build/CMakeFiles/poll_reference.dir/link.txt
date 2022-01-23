@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/poll_reference.dir/pollserver01.c.o  -o poll_reference 

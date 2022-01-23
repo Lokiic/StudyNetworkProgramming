@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/fork_s.dir/fork_server.c.o  -o fork_s 

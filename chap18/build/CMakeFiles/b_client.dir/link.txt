@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/b_client.dir/buffer_client.c.o  -o b_client 

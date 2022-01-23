@@ -1,0 +1,6 @@
+/home/manu/HTTPserver/chap7/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap7/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap7/build/CMakeFiles/un_datagram_server.dir
+/home/manu/HTTPserver/chap7/build/CMakeFiles/un_stream_client.dir
+/home/manu/HTTPserver/chap7/build/CMakeFiles/un_datagram_client.dir
+/home/manu/HTTPserver/chap7/build/CMakeFiles/un_stream_server.dir

@@ -1,0 +1,4 @@
+/home/manu/HTTPserver/chap5/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap5/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap5/build/CMakeFiles/tcpserver.dir
+/home/manu/HTTPserver/chap5/build/CMakeFiles/tcpclient.dir

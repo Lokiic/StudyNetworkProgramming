@@ -1,0 +1,3 @@
+/home/manu/HTTPserver/chap4/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap4/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap4/CMakeFiles/make_socket_exe.dir

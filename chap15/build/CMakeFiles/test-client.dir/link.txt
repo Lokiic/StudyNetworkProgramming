@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test-client.dir/test_client.c.o  -o test-client 

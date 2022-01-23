@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/non_c.dir/nonblocking_client.c.o  -o non_c 

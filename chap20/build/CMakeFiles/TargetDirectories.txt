@@ -1,0 +1,4 @@
+/home/manu/HTTPserver/chap20/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap20/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap20/build/CMakeFiles/se_c.dir
+/home/manu/HTTPserver/chap20/build/CMakeFiles/ep1_s.dir

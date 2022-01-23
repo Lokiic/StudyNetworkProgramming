@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/mid-client.dir/mid_client.c.o  -o mid-client 

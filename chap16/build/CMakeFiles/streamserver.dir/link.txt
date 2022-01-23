@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/streamserver.dir/stream_server.c.o  -o streamserver 

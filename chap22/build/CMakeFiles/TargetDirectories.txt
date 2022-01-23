@@ -1,0 +1,6 @@
+/home/manu/HTTPserver/chap22/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap22/build/CMakeFiles/test_c.dir
+/home/manu/HTTPserver/chap22/build/CMakeFiles/ans_s.dir
+/home/manu/HTTPserver/chap22/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap22/build/CMakeFiles/nonblocking_s.dir
+/home/manu/HTTPserver/chap22/build/CMakeFiles/nonblocking_c.dir

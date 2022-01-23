@@ -1,0 +1,4 @@
+/home/manu/HTTPserver/mid-work/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/mid-work/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/mid-work/build/CMakeFiles/mid-server.dir
+/home/manu/HTTPserver/mid-work/build/CMakeFiles/mid-client.dir

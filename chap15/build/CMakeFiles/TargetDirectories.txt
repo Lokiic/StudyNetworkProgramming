@@ -1,0 +1,5 @@
+/home/manu/HTTPserver/chap15/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap15/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap15/build/CMakeFiles/test-client.dir
+/home/manu/HTTPserver/chap15/build/CMakeFiles/set_server.dir
+/home/manu/HTTPserver/chap15/build/CMakeFiles/noset_server.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/r_server2.dir/reliable_server02.c.o  -o r_server2 

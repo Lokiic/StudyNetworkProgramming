@@ -1,0 +1,4 @@
+/home/manu/HTTPserver/chap21/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap21/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap21/build/CMakeFiles/test_c.dir
+/home/manu/HTTPserver/chap21/build/CMakeFiles/poll_s.dir

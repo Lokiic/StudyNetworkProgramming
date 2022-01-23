@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/un_datagram_client.dir/unix_datagram_client.c.o  -o un_datagram_client 

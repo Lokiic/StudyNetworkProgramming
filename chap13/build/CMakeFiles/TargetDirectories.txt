@@ -1,0 +1,4 @@
+/home/manu/HTTPserver/chap13/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap13/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap13/build/CMakeFiles/testserver.dir
+/home/manu/HTTPserver/chap13/build/CMakeFiles/writev_client.dir

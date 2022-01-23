@@ -1,0 +1,5 @@
+/home/manu/HTTPserver/chap18/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap18/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap18/build/CMakeFiles/b_server2.dir
+/home/manu/HTTPserver/chap18/build/CMakeFiles/b_client.dir
+/home/manu/HTTPserver/chap18/build/CMakeFiles/b_server1.dir

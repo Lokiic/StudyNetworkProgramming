@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/thread_dynamic.dir/Thread_dynamic.c.o CMakeFiles/thread_dynamic.dir/Echo.c.o  -o thread_dynamic  -lpthread 

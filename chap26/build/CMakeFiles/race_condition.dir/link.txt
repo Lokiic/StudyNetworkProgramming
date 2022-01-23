@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/race_condition.dir/RaceCondition.c.o CMakeFiles/race_condition.dir/Echo.c.o  -o race_condition  -lpthread 

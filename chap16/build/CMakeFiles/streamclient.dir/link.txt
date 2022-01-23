@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/streamclient.dir/stream_client.c.o  -o streamclient 

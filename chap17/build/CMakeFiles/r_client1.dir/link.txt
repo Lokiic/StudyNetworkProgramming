@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/r_client1.dir/reliable_client01.c.o  -o r_client1 

@@ -1,0 +1,4 @@
+/home/manu/HTTPserver/chap6/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap6/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap6/build/CMakeFiles/udpclient.dir
+/home/manu/HTTPserver/chap6/build/CMakeFiles/udpserver.dir

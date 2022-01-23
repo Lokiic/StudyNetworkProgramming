@@ -1,0 +1,4 @@
+/home/manu/HTTPserver/chap12/build/CMakeFiles/rebuild_cache.dir
+/home/manu/HTTPserver/chap12/build/CMakeFiles/pingpong_client.dir
+/home/manu/HTTPserver/chap12/build/CMakeFiles/edit_cache.dir
+/home/manu/HTTPserver/chap12/build/CMakeFiles/pingpong_server.dir

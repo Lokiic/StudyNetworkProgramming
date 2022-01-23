@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/udp-connect-server.dir/udp_connect_server.c.o  -o udp-connect-server 

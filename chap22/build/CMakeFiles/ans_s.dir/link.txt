@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/ans_s.dir/ans_server.c.o  -o ans_s 

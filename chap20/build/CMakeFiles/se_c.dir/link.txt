@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/se_c.dir/select_client.c.o  -o se_c 

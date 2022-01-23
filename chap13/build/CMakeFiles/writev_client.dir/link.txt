@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/writev_client.dir/writev_client.c.o  -o writev_client 

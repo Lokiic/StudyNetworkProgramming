@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/pingpong_server.dir/ping-pong_server.c.o  -o pingpong_server 
